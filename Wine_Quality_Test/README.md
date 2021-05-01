@@ -28,7 +28,7 @@
 
 11 - alcohol
 
-# Output variable (based on sensory data):
+# Output variable 
 
 12 - quality (score between 0 and 10)
 
