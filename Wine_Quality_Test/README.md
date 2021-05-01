@@ -34,13 +34,13 @@
 
 ## Steps Followed:
 
-###1] Data Analysis
+### 1] Data Analysis
 
-###2] Data Cleaning(Delete duplicates etc..)
+### 2] Data Cleaning(Delete duplicates etc..)
 
-###3] Data Munging (Outliers, Null values treated with imputing technique)
+### 3] Data Munging (Outliers, Null values treated with imputing technique)
 
-###4] Data Visualization
+### 4] Data Visualization
 
-###5] Machine learning (Logistic Regression,K Nearest Neighbors)
+### 5] Machine learning (Logistic Regression,K Nearest Neighbors)
 
