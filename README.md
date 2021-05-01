@@ -1,6 +1,6 @@
 # Kaggle_Projects
 
-# This repository contains following projects-
+# This repository contains the following projects-
 
 1] Wine Quality Prediction
 
