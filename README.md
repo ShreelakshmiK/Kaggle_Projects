@@ -4,6 +4,7 @@
 
 1] Wine Quality Prediction
 
+2] Heart Disease Prediction
 
 
 # This repository will demonstrate following skills-
