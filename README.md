@@ -20,3 +20,4 @@
 Logistic regression, Descision Tree, Random Forest, Lasso & Ridge regression to avoid overfitting
 
 6] Compared the performance using various accuracy metrics.
+# Kaggle_Projects
