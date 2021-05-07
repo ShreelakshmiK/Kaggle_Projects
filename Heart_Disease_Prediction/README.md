@@ -47,3 +47,18 @@ Each attribute is a potential risk factor. There are both demographic, behaviora
 • Glucose: glucose level (Continuous)
 
 
+# Steps Followed:
+
+### 1] Data Analysis
+
+### 2] Normalization approach to provide data consistency
+
+### 3] Data Splitting
+
+### 4] Parameter initializing and creating sigmoid function
+
+### 5] Forward and Backward Propagation
+
+### 6] Machine learning (Logistic Regression)
+
+
