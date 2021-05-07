@@ -10,7 +10,8 @@ Data Preparation.
 ## Variables
 Each attribute is a potential risk factor. There are both demographic, behavioral and medical risk factors.
 
-1] Demographic:                                                                                                                                                                         
+1] Demographic:
+
 • Sex: male or female(Nominal)
 
 • Age: Age of the patient;(Continuous - Although the recorded ages have been truncated to whole numbers, the concept of age is continuous)
