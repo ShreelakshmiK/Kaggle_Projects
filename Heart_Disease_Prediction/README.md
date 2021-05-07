@@ -10,17 +10,17 @@ Data Preparation.
 ## Variables
 Each attribute is a potential risk factor. There are both demographic, behavioral and medical risk factors.
 
-Demographic:
+1] Demographic:
 • Sex: male or female(Nominal)
 
 • Age: Age of the patient;(Continuous - Although the recorded ages have been truncated to whole numbers, the concept of age is continuous)
 
-Behavioral
+2] Behavioral
 • Current Smoker: whether or not the patient is a current smoker (Nominal)
 
 • Cigs Per Day: the number of cigarettes that the person smoked on average in one day.(can be considered continuous as one can have any number of cigarettes, even half a cigarette.)
 
-Medical( history)
+3] Medical( history)
 • BP Meds: whether or not the patient was on blood pressure medication (Nominal)
 
 • Prevalent Stroke: whether or not the patient had previously had a stroke (Nominal)
@@ -29,7 +29,7 @@ Medical( history)
 
 • Diabetes: whether or not the patient had diabetes (Nominal)
 
-Medical(current)
+4] Medical(current)
 
 • Tot Chol: total cholesterol level (Continuous)
 
